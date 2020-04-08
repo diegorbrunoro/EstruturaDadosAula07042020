@@ -1,3 +1,6 @@
+package estruturadadosaula07042020;
+
+
 public class Nodo
 {
 	public int dado;

@@ -1,3 +1,6 @@
+package estruturadadosaula07042020;
+
+
 public class Lista
 {
 	public Nodo prim;
